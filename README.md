@@ -1,4 +1,4 @@
-## Hello my name is Cian O'Shea, welcome to my GitHub page! 👋
+## Hello my name is Cian O'Shea. Welcome to my GitHub page! 👋
 
 I am a second year student in Griffith College in Dublin, Ireland 🇮🇪. 
 

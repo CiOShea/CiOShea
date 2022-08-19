@@ -4,7 +4,7 @@ I am a second year student Computer Science in Griffith College in Dublin, Irela
 
 I have a keen interest in Software Development as well as Databases, Data Structures and Web Development, and I am always looking for new things to learn!💻📚
 
-I am currently working on some small Python and Java projects to improve my skills in both!
+I am currently working on some small Python and Java projects to improve my skills in both.
 
 ## Skillset and Technologies Used:
 

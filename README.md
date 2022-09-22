@@ -1,6 +1,6 @@
 ## Hello, my name is Cian O'Shea. Welcome to my GitHub page! 👋
 
-I am a second year Computer Science student in Griffith College in Dublin, Ireland 🇮🇪. 
+I am a third year Computer Science student in Griffith College in Dublin, Ireland 🇮🇪. 
 
 I have a keen interest in Software Development as well as Databases, Data Structures and Web Development, and I am always looking for new things to learn!💻📚
 

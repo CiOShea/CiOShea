@@ -1,5 +1,7 @@
 ## Hello, my name is Cian O'Shea. Welcome to my GitHub page! 👋
 
+I am a final year Computer Science student in Griffith College in Dublin, Ireland 🇮🇪. 
+
 
 ## Skillset and Technologies Used:
 <div>
@@ -16,4 +18,3 @@
 </div>
 
 ---
-
